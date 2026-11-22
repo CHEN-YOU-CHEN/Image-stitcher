@@ -13,7 +13,7 @@
 ## 專案結構
 
 ```
-Image_Stitching/
+Image_Stitcher/
 ├── main.py                 # 執行兩張拼接、多張拼接、圓柱全景
 ├── src/
 │   ├── data_download.py    # 下載測試資料 skybox、以 CPU 渲染 32 張影像
