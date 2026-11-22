@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# data and generated outputs
+data/frames/
+data/skybox/
+data/skybox.zip
+data/my_images/
+results/
+checkpoints/
+*.pt
+*.pth
+*.jpg
+*.jpeg

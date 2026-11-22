@@ -1,0 +1,5 @@
+numpy>=1.24
+opencv-python>=4.10   # data_download 用到 cv2.IMREAD_COLOR_RGB
+
+# deep-learning estimator (roadmap)
+# torch>=2.0
